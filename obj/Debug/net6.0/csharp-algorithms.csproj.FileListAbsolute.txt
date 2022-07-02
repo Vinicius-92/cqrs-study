@@ -1,0 +1,15 @@
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/bin/Debug/net6.0/csharp-algorithms
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/bin/Debug/net6.0/csharp-algorithms.deps.json
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/bin/Debug/net6.0/csharp-algorithms.runtimeconfig.json
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/bin/Debug/net6.0/csharp-algorithms.dll
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/bin/Debug/net6.0/csharp-algorithms.pdb
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/csharp-algorithms.csproj.AssemblyReference.cache
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/csharp-algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/csharp-algorithms.AssemblyInfoInputs.cache
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/csharp-algorithms.AssemblyInfo.cs
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/csharp-algorithms.csproj.CoreCompileInputs.cache
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/csharp-algorithms.dll
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/refint/csharp-algorithms.dll
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/csharp-algorithms.pdb
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/csharp-algorithms.genruntimeconfig.cache
+/home/viniciussilva/RiderProjects/csharp-algorithms/csharp-algorithms/obj/Debug/net6.0/ref/csharp-algorithms.dll
